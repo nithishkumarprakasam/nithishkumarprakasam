@@ -91,13 +91,9 @@
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithishkumarprakasam&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarprakasam&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarprakasam&layout=compact&theme=tokyonight)
 ---
-
 # 📈 Contribution Graph
 
 <div align="center">
