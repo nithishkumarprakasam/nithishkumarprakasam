@@ -91,16 +91,11 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithishkumarprakasam&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithishkumarprakasam&show_icons=true&theme=tokyonight&hide_border=true"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarprakasam&theme=tokyonight)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumarprakasam&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarprakasam&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarprakasam&layout=compact&theme=tokyonight)
 ---
 
 # 📈 Contribution Graph
