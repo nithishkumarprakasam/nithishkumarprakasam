@@ -56,7 +56,7 @@
 
 ✅ Fire Detection Alarm System
 
-✅ RF Energy Harvesting
+✅ Automatic Railway Gate
 
 ✅ AI-Based Smart Electronics
 
